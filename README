@@ -1,0 +1,8 @@
+A Simple Snake game made in python.
+Uses pygame for the graphics.
+Starts automatically and ends automatically as well.
+Uses 3 files --
+One for the blocks of the snake, for the food, and the main file
+
+Simply draws rects and updates according to key presses.
+Other blocks follow the block ahead of it unless it is the head where it moves independent of other blocks.
